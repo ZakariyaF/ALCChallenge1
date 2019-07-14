@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="welcome_to_alc4">Welcome to ALC 4.0!</string>
+    <string name="my_profile">My profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="andela_learning_community_logo">Andela Learning Community logo</string>
+    <string name="profile_name">Zakariya Ferhi</string>
+    <string name="profile_track">Track:</string>
+    <string name="profile_country">Country:</string>
+    <string name="profile_email">Email:</string>
+    <string name="profile_track_value">Android</string>
+    <string name="profile_country_value">Algeria</string>
+    <string name="profile_email_value">elias.ghost99@gmail.com</string>
+    <string name="profile_phone">Phone number:</string>
+    <string name="profile_phone_value">+213 659 886 722</string>
+    <string name="profile_slack">Slack username:</string>
+    <string name="profile_slack_value">\@Zaki</string>
+    <string name="profile_picture">Profile picture</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518171921300",
+    "firebase_url": "https://alc-challenge1.firebaseio.com",
+    "project_id": "alc-challenge1",
+    "storage_bucket": "alc-challenge1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518171921300:android:a539d0a3744508cb",
+        "android_client_info": {
+          "package_name": "com.zakariyaf.alcchallenge1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518171921300-mcmumlaodr2k2dt8m3jsvmsa1d2n0k30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcfK6gZG48sQpSN5iibZNzxRBHIKtW63c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518171921300-mcmumlaodr2k2dt8m3jsvmsa1d2n0k30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
